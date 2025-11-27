@@ -1,3 +1,2 @@
 MACOSX_SDK_VERSION:
-  - if: osx and x86_64
-    then: 11.0
+  - 12.3
